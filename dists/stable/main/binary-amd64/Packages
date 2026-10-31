@@ -1,0 +1,42 @@
+Package: aila-os-base
+Version: 0.2.1
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme
+Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted
+Description: Aila OS - tema, apps e ajustes do sistema
+ Primeira publicacao
+Filename: pool/main/aila-os-base_0.2.1_all.deb
+Size: 4481222
+MD5sum: 889d7dff25cc2ceb44f96d86a0357054
+SHA256: eb0ad4e74f0a21ff95c41b8ee9520a0d271c6b771ea6b1bef63ba155c0976b1e
+
+Package: aila-os-base
+Version: 0.2.2
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog
+Description: Aila OS - tema, apps e ajustes do sistema
+ O que mudou nesta atualização?
+Filename: pool/main/aila-os-base_0.2.2_all.deb
+Size: 4480962
+MD5sum: 7a0c289b970b764f96564142515936ac
+SHA256: 704c189c937b69b11f9a08da46ff63e1e6f14cf1d9d53db07c2d2354e87ac072
+
+Package: aila-os-base
+Version: 0.2.3
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog
+Description: Aila OS - tema, apps e ajustes do sistema
+ O que mudou nesta atualização?
+Filename: pool/main/aila-os-base_0.2.3_all.deb
+Size: 4480950
+MD5sum: a3491eacf4b91874006a4dcce2420e6a
+SHA256: 84d7339fea0b1033f18ed16fbfb81d57ea8f21e03e3484070c59b1b671a71292
