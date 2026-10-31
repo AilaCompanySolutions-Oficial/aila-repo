@@ -5,27 +5,27 @@ Origin: Aila OS
 Label: Aila OS
 Suite: stable
 Codename: stable
-Date: sáb, 31 out 2026 16:52:04 UTC
+Date: sáb, 31 out 2026 17:00:05 UTC
 Architectures: amd64
 Components: main
 Description: Atualizacoes do Aila OS
 MD5Sum:
- 1e62822f267d538fabafe390e5ae2d13     1988 main/binary-amd64/Packages
- b6315222bd23ddad61bd5c4c6cc72da8      697 main/binary-amd64/Packages.gz
+ 4013ed1605c18661e0ba4cdad8c27516     2000 main/binary-amd64/Packages
+ eae757034c0dbb7aea442fab89c2a573      690 main/binary-amd64/Packages.gz
 SHA256:
- 601ff9bf6a6ebe243c9ca5d85652625b592d8cd831da16483795a8412dd1975a     1988 main/binary-amd64/Packages
- c4721981a3bc025b7a1fccf871a69981fef517a168fc6ffc27d9f026a84deea7      697 main/binary-amd64/Packages.gz
+ 61742b6fc4897a825b6f7a17a642bf9d7dd42b1e7af8e2dbf8bd33e4aee12025     2000 main/binary-amd64/Packages
+ b3e2ef7b8144a7a82aa9d8f2decbe19557e5d24fe26892ce7968a2cd66cef936      690 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEoTVKAvdl5X/XjfH2PhyC1nA0RocFAmrmHLQACgkQPhyC1nA0
-Roc1mgwAz9OWuoJzD7TNVsyYumR5eNicSVrvEFeMTXRhKy9h6FllI6VBRUTjxExL
-D319eBw9+djwwC2F3azCt8MaMBlH/8/pDU8UtMwqu/s5VrrmUIgLgr/1RwKXZQWF
-07Ns9xqIBdq575tk9v8G9lIaomHXyXzvQ2C7sRYDCfVl7MrPOXKurCqZ3u4Wk2pP
-9P32xfNZr8SVfS3otuC/XjIcoi+pfJLelpIBjZ2UYYLpQW2ezMx+Vp3c1LBhG4qG
-bQxfLRfuUB6c2wkZ2aAmHIWz9v7SCla76bcmUxZd9U1dIphUs0ugKPZLz+eed+Br
-eGWF6ox5R10XvU0IALlLm/r0MoNRrd3PV6DwFX6bx2gIygI5QBGBnMlyOZ3uDLVZ
-9l+lp4aNU9YahBoefvcyMUWZOnKIE65JEshZAIe7QUwtWg1kppMhbkeWTBsImeUo
-RQDpfWcJQWMMtdw1V7aTWQPTNWPrjYBnb/iph5BJMW5AIlEToh93pgpLeV3GzYmz
-BuyTMtiS
-=pkvA
+iQGzBAEBCgAdFiEEoTVKAvdl5X/XjfH2PhyC1nA0RocFAmrmHpUACgkQPhyC1nA0
+Roe70Qv/cDNC1qgJIfuPhdTKEFTyfx4PaLV03hOdH545UHpVzG4qeG1EUk9YJVyJ
+yn1+AJS6HjrN9JdkjvcUHtjSZD6sFNe1hWUiFSwKOerfY1bMbTIZYEHwLMnafPD8
+9jeD/3nfywc9izsHrCdHuVs8rEhUAxX7LNoS0Per5tlvJt1fIjhDULBXHStg8QTC
+RDnQKMhFC/YzP7L5Uj85aDoihwLH/VZu/DDDX2dBuG9Nq/ZtwHMdW7kT9Ng+A9if
+nGp9rvaxYE0RMi3xEfpzecjqz21YFrHd6lIzmvCr96hNjS3PtijKWlfGwtXs0/2B
+woZ3Uqc3luutUdJf42RQ5t2lscqZf35e629ul6xbWGh19sLdsAT8pK3PlnzB7W4z
+pFRamW8vfQXTvxS6tniz1GZgllSkCfZAN9Z+B9QuLIXwzvGpg34httrBEZT0FRuX
+7Am0/QpeYtBh4ovK38QFmF+iurccDHaV6OXzHanwxvRUwaJZ2uo07VSzuOPASeB/
+8SBS4FG0
+=1Bxx
 -----END PGP SIGNATURE-----

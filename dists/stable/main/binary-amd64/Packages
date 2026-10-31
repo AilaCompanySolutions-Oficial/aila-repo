@@ -1,19 +1,4 @@
 Package: aila-os-base
-Version: 0.2.1
-Section: misc
-Priority: optional
-Architecture: all
-Maintainer: Aila OS <contato@aila-os.local>
-Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme
-Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted
-Description: Aila OS - tema, apps e ajustes do sistema
- Primeira publicacao
-Filename: pool/main/aila-os-base_0.2.1_all.deb
-Size: 4481222
-MD5sum: 889d7dff25cc2ceb44f96d86a0357054
-SHA256: eb0ad4e74f0a21ff95c41b8ee9520a0d271c6b771ea6b1bef63ba155c0976b1e
-
-Package: aila-os-base
 Version: 0.2.2
 Section: misc
 Priority: optional
@@ -55,3 +40,18 @@ Filename: pool/main/aila-os-base_0.2.4_all.deb
 Size: 4481220
 MD5sum: ff5f52add84ab1603d0a77a82dd07e9b
 SHA256: 3ce9bc19b571ce6b74053db67fa57057bf6c9b291f998fc1b324396f38291b4a
+
+Package: aila-os-base
+Version: 0.2.5
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme
+Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted
+Description: Aila OS - tema, apps e ajustes do sistema
+ 6767676767676767676767678676767
+Filename: pool/main/aila-os-base_0.2.5_all.deb
+Size: 4481200
+MD5sum: ffb514107a42e3463759a0366cb13b8e
+SHA256: c2ed505e2e101dcff2122dd7f7e69f5fe121b4cd15067323c6893ba489edde05
