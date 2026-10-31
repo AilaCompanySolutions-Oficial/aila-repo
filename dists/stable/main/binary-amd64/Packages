@@ -40,3 +40,18 @@ Filename: pool/main/aila-os-base_0.2.3_all.deb
 Size: 4480950
 MD5sum: a3491eacf4b91874006a4dcce2420e6a
 SHA256: 84d7339fea0b1033f18ed16fbfb81d57ea8f21e03e3484070c59b1b671a71292
+
+Package: aila-os-base
+Version: 0.2.4
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme
+Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted
+Description: Aila OS - tema, apps e ajustes do sistema
+ O que mudou nesta atualização?
+Filename: pool/main/aila-os-base_0.2.4_all.deb
+Size: 4481220
+MD5sum: ff5f52add84ab1603d0a77a82dd07e9b
+SHA256: 3ce9bc19b571ce6b74053db67fa57057bf6c9b291f998fc1b324396f38291b4a

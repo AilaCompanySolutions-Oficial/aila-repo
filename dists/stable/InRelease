@@ -5,27 +5,27 @@ Origin: Aila OS
 Label: Aila OS
 Suite: stable
 Codename: stable
-Date: sex, 30 out 2026 23:13:39 UTC
+Date: sáb, 31 out 2026 16:52:04 UTC
 Architectures: amd64
 Components: main
 Description: Atualizacoes do Aila OS
 MD5Sum:
- 76851f43ba8aae74a957edb9aa45aee0     1431 main/binary-amd64/Packages
- ebd114e7a472d67d72a5cc1bc543eed6      618 main/binary-amd64/Packages.gz
+ 1e62822f267d538fabafe390e5ae2d13     1988 main/binary-amd64/Packages
+ b6315222bd23ddad61bd5c4c6cc72da8      697 main/binary-amd64/Packages.gz
 SHA256:
- a37fad8f10532b47c360df8f89397729376ab4487f873ef3e855f728760bda8c     1431 main/binary-amd64/Packages
- 1ebad93c484e30e8f4a57268b8aa571b2caba6d636888a7ff568a64114a6d7b4      618 main/binary-amd64/Packages.gz
+ 601ff9bf6a6ebe243c9ca5d85652625b592d8cd831da16483795a8412dd1975a     1988 main/binary-amd64/Packages
+ c4721981a3bc025b7a1fccf871a69981fef517a168fc6ffc27d9f026a84deea7      697 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEoTVKAvdl5X/XjfH2PhyC1nA0RocFAmrlJKMACgkQPhyC1nA0
-Rof13gwAjQP1/mVf4g354zuG31qJm/eE0L4MpGLznmBm8N19UemDXfZIGCz+WZK9
-rY2dC9gJ21BTtkp0QkqF0V4Bm7Ieq6IkCJs6t0OyTozctnRxD2fp+gDYk+8uftEn
-KjCWP3k+U38pGBDgRaX6FrGEuEf3kX43lhjh18jqLZnG347eNeMco10L3hsxssTP
-Oq9Ar/TE/NKhgXJOvjU7d0JXkA7WuWsA7dwDiyQGC5Mq3DqGkwcGHwtSFW4MHp7T
-fEXmbehjeYP3b8bT0HSd016GxErClv+5HbB9uF+8aPti74+XqL2n8kILEHcU1xPD
-I6HQrCI61RCJg+agW9XOJ7dVSS0QrF42Qz6FVV7hAwX8wBlf8FaUSMwH5LxK7W3V
-DVfuKJbhkqn2ckeCbxeNpx6o6LWrowE2019ZOF8d+Fr/EOTSWBJQ0bXXWoHTgAvG
-Rh3LxDFNCBed6xF3wOeMDlflhJSmJcDygqv2FGo4YoR+DbQQjxatfqD/Wa2pdlAB
-iNf4MEwu
-=9E9L
+iQGzBAEBCgAdFiEEoTVKAvdl5X/XjfH2PhyC1nA0RocFAmrmHLQACgkQPhyC1nA0
+Roc1mgwAz9OWuoJzD7TNVsyYumR5eNicSVrvEFeMTXRhKy9h6FllI6VBRUTjxExL
+D319eBw9+djwwC2F3azCt8MaMBlH/8/pDU8UtMwqu/s5VrrmUIgLgr/1RwKXZQWF
+07Ns9xqIBdq575tk9v8G9lIaomHXyXzvQ2C7sRYDCfVl7MrPOXKurCqZ3u4Wk2pP
+9P32xfNZr8SVfS3otuC/XjIcoi+pfJLelpIBjZ2UYYLpQW2ezMx+Vp3c1LBhG4qG
+bQxfLRfuUB6c2wkZ2aAmHIWz9v7SCla76bcmUxZd9U1dIphUs0ugKPZLz+eed+Br
+eGWF6ox5R10XvU0IALlLm/r0MoNRrd3PV6DwFX6bx2gIygI5QBGBnMlyOZ3uDLVZ
+9l+lp4aNU9YahBoefvcyMUWZOnKIE65JEshZAIe7QUwtWg1kppMhbkeWTBsImeUo
+RQDpfWcJQWMMtdw1V7aTWQPTNWPrjYBnb/iph5BJMW5AIlEToh93pgpLeV3GzYmz
+BuyTMtiS
+=pkvA
 -----END PGP SIGNATURE-----
