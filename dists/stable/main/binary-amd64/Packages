@@ -1,18 +1,4 @@
 Package: aila-os-base
-Version: 0.2.2
-Section: misc
-Priority: optional
-Architecture: all
-Maintainer: Aila OS <contato@aila-os.local>
-Depends: python3-pyqt6, libnotify-bin, kdialog
-Description: Aila OS - tema, apps e ajustes do sistema
- O que mudou nesta atualização?
-Filename: pool/main/aila-os-base_0.2.2_all.deb
-Size: 4480962
-MD5sum: 7a0c289b970b764f96564142515936ac
-SHA256: 704c189c937b69b11f9a08da46ff63e1e6f14cf1d9d53db07c2d2354e87ac072
-
-Package: aila-os-base
 Version: 0.2.3
 Section: misc
 Priority: optional
@@ -55,3 +41,18 @@ Filename: pool/main/aila-os-base_0.2.5_all.deb
 Size: 4481200
 MD5sum: ffb514107a42e3463759a0366cb13b8e
 SHA256: c2ed505e2e101dcff2122dd7f7e69f5fe121b4cd15067323c6893ba489edde05
+
+Package: aila-os-base
+Version: 0.3.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme, clamtk
+Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted
+Description: Aila OS - tema, apps e ajustes do sistema
+ Antivirus ClamTK incluido. Novo papel de parede Aila Violeta. App Atualizacoes mostra versao e novidades.
+Filename: pool/main/aila-os-base_0.3.0_all.deb
+Size: 6033118
+MD5sum: dec3c6d4a91ca5f39f1f6b50075e7b97
+SHA256: 4f5b093f482da399f55067a4ed56c18f25afe32f1c8ad792921511aecab55876
