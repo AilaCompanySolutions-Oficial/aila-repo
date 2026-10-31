@@ -1,18 +1,4 @@
 Package: aila-os-base
-Version: 0.2.3
-Section: misc
-Priority: optional
-Architecture: all
-Maintainer: Aila OS <contato@aila-os.local>
-Depends: python3-pyqt6, libnotify-bin, kdialog
-Description: Aila OS - tema, apps e ajustes do sistema
- O que mudou nesta atualização?
-Filename: pool/main/aila-os-base_0.2.3_all.deb
-Size: 4480950
-MD5sum: a3491eacf4b91874006a4dcce2420e6a
-SHA256: 84d7339fea0b1033f18ed16fbfb81d57ea8f21e03e3484070c59b1b671a71292
-
-Package: aila-os-base
 Version: 0.2.4
 Section: misc
 Priority: optional
@@ -41,6 +27,21 @@ Filename: pool/main/aila-os-base_0.2.5_all.deb
 Size: 4481200
 MD5sum: ffb514107a42e3463759a0366cb13b8e
 SHA256: c2ed505e2e101dcff2122dd7f7e69f5fe121b4cd15067323c6893ba489edde05
+
+Package: aila-os-base
+Version: 0.2.6
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme
+Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted
+Description: Aila OS - tema, apps e ajustes do sistema
+ Atualizacao do Aila OS.
+Filename: pool/main/aila-os-base_0.2.6_all.deb
+Size: 6033056
+MD5sum: 1eec6c0fdea818b15dbe8c8240b71d3f
+SHA256: 4df93a98e5a5d08c6a14111dbf7665dce2bd15e89d3088f2740cd4356f5bc501
 
 Package: aila-os-base
 Version: 0.3.0

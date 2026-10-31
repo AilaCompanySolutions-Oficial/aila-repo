@@ -5,27 +5,27 @@ Origin: Aila OS
 Label: Aila OS
 Suite: stable
 Codename: stable
-Date: Sat, 31 Oct 2026 22:28:36 UTC
+Date: sáb, 31 out 2026 22:30:57 UTC
 Architectures: amd64
 Components: main
 Description: Atualizacoes do Aila OS
 MD5Sum:
- a2fd9fc851acb8f560131325a4553237     2194 main/binary-amd64/Packages
- 19cda888a0e561ac5c167c29ac66e67c      781 main/binary-amd64/Packages.gz
+ 11b328443e060d27c10f42f7f804ac44     2298 main/binary-amd64/Packages
+ 4aaefd578ad30290026bc09af07d70c5      788 main/binary-amd64/Packages.gz
 SHA256:
- d8590df1033ad28ef1de79b6211e636edba02b525656bc00c5473ff9d98a9d3a     2194 main/binary-amd64/Packages
- ff93f525299cf703c0cd200239031298dc5508fc3b0a064c7a57065a49a49909      781 main/binary-amd64/Packages.gz
+ e40a031db5473c189d7bbe202591866feef9cee1443d8cd0b135a6285a56701f     2298 main/binary-amd64/Packages
+ 32ada0d295f2efa9f49d79d8cbff21356ac4b535527cd35eadd8f092b5678d1e      788 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEoTVKAvdl5X/XjfH2PhyC1nA0RocFAmrma5QACgkQPhyC1nA0
-Rodshwv+P1Tgk63tjeW8MbcxlHs6yWG8ZSNS4IybNrK5XUdtVqLgoU4xT3UawuXN
-6Mcv3uQCuSEKiECHJsAFT32bpt3PwW7IIoDbrxdsWSyhRK+iYFaU10/jGHtaiPNz
-GY55pustp93MUx2S2x0qj0Ml5HiqS3UGg947KuuFonOnG1kbsfbmaY+aAXp3P9a+
-Gjqwhc74flXhSOALTPzx/tSYNDBF1olEbEEDv3YQ59f/4klnbO/S3FUMtL2xqaWl
-HeBvn3p23WKb+fNjpsgVLtmDGabTOm2pksAt1fDsEg37hJh3tEYRJoxk8qGDZ9PP
-uqEyRQHb/GyjpHq7Xh/xYbXBuab/WFkrXYJJZ15Gi0loDfNBQFYpoJbkymB+N2z3
-1eqMttSVG4Uw/IiRJuRP4I3j9NVjqfr0pm6kQovv9epzjnPTg64xx/xwkrQlWQOR
-w9UXtpiUc0UfdcPDekkPivmBmQegVQSvWwa0mca0u0Gun0NlIWnPHw7KMH7Kfw69
-1ShTHyEk
-=t0d+
+iQGzBAEBCgAdFiEEoTVKAvdl5X/XjfH2PhyC1nA0RocFAmrmbCEACgkQPhyC1nA0
+RofXgQv/YmKnHQnReTdZjZUoeJN+rBMPgayotctqr8A+rWYK9EGmYp+nhcCjfluA
+zOkNHqnVqHstSA5cDhpthUeQsy/XoKmEqEi/TDjPfC8nxJTNjgbqGOW3Gy13Y1xu
+G30+1LUaeZqpUe/Dm7Pmg3ZKe7CQYfM48thLHjy3Qcm/5qgOm85g56c7cOVKOalo
+nATjoBignx8GyVohK1e1jTOqcN3bJT+CKl+ikKFrNgQ+uwrfXRF68PPyo6ghDOM4
+kZrLsccbJNuZA5rkqiOHiOQAqSJsCkCasJUw/VPMXgjLS8CT+9Db5PdNz/KJ1lFH
+q1voz0TTC6LutjuQCVeNRRE4uLVoficsfFfX21kQFjn2sO01bodHO+gCtmDBXyfa
+eOka1UB2ezTzMJkPfOYx4oWtmqxr+ca0ruq7T5RnJ0t7H/bYGRxqqWmkmRPurG4c
+8XN+phHZx7VZukck8JoL4pUE83s5f8vf+S603TDJFclB/UrDBV9Jbi7uv8VxxQPc
+Z/Iqt3cW
+=MlTo
 -----END PGP SIGNATURE-----
