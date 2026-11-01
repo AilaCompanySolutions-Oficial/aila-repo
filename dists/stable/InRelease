@@ -5,7 +5,7 @@ Origin: Aila OS
 Label: Aila OS
 Suite: stable
 Codename: stable
-Date: Sun, 01 Nov 2026 15:05:14 UTC
+Date: dom, 01 nov 2026 15:05:31 UTC
 Architectures: amd64
 Components: main
 Description: Atualizacoes do Aila OS
@@ -17,15 +17,15 @@ SHA256:
  a1685ef2fce4b95c01819aabc68bf07030bf38bb5e16fd1c68a25ea2f22f51a4      902 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEoTVKAvdl5X/XjfH2PhyC1nA0RocFAmrnVSoACgkQPhyC1nA0
-RofP8gv/Ql/1H1KtA6yTeEdPgI9a3ZEwI87jWyRdEyRVV0gG71cPsISnKgDi4dfh
-e6CudADBxrKcO1cg51QL77+0V/TbZmYtDJmsVanEIVBNXwGPuA9mCmVz7kdpVRmg
-YzU72j65Wb6hpolYb+MdMeKovZ9U+4HwVq0IK+ylc+mza0qg83gcWzLS1xUoVYnW
-ro15bSb5V6gKkZlgyMTWzUvcYda2QxZA6RHZnh1CREQ6kG1+pSurZ22djMeBg1Ph
-9D4WhpLWrepum18kgkb0xyMvFBkTQkr3r/i1OV1WPu3/SyzSbghP1+Z6hsmAwX8P
-BIAPt5bBxtjaqncLx4XasopzpUDeo35fWPabKWZUnpv4sSaQAPBJ++RDDzwBNTz+
-2bRzrWHvDhQ1Vy+tTnCVUqRFBdsIeQNjhv03m/E3WrrEdhVtvsWi9N7bAL5xQYm6
-lvk75bKQxX1O5gOeEU8C8MQTCC5RJlQj75rLcfhj+uEKUjC99/1UoXNndUtSKbHY
-ZZ4bbHLx
-=HytH
+iQGzBAEBCgAdFiEEoTVKAvdl5X/XjfH2PhyC1nA0RocFAmrnVTsACgkQPhyC1nA0
+RocBmgwAyAxX4lau3Bv6qlHg4Q4PZqmszSFYAmajc5n9Wvmc0hS9XMq0Dr3Kia3+
+h3D7ou+56aRM6Q5iBjO66nzirmx1ng9j7H+92i5VooDGH8Csqmc/OdYHtcsxeTXm
+GTyALJhVDBAPQAWpuhYwPop1TU1JGVshc7awtcWdYRkpyU7SKFVHVvEb+U3fCXfW
+VcuUotpIxuyA6H8GTWQddFobXM3m1Gx7ym9elxUvO9EMpk/Q+nK8yGDdvtXaIClc
+sCASveuItVU1Byrz3ZmtVUDC2MVQxpmYrcvGICiJSwW5tT+m9KQnIlpb9L8Y06rl
+L7Py0mS38pls8FiCFReKS8occKv/T1/0bZWXnE4QWbrgUAW7w/O7RN4D9/dzwE4F
+GYP5Sc8kfjI2m4NY6jBqN3/gWU93R+T9TTjB3UDLIXzXFPrdDmtaaokyJY38o3Y/
+7UfpADcW9qHdloEy5dKuPjiKvttkUE0yQJdFU5UGFQmn+aHsaTY1DP02ehPvPPK1
+X3O2pNPI
+=6O1S
 -----END PGP SIGNATURE-----
