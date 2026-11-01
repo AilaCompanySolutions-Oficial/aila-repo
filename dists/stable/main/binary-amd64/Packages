@@ -54,6 +54,6 @@ Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted, plasma-firewall, guf
 Description: Aila OS - tema, apps e ajustes do sistema
  Firewall ligado de verdade. Novo login com vidro. Efeito vidro nos apps (experimental). Correcoes de bugs.
 Filename: pool/main/aila-os-base_0.4.0_all.deb
-Size: 6047346
-MD5sum: eaec5d5782281ca4f2f424f561316d27
-SHA256: 4818873469d6e9d594562cee69f168bd6dd696aa147ae6eba2da4e8e3a8a535a
+Size: 6047352
+MD5sum: aa63e11bcba98c21d1cb2157af4cc50a
+SHA256: a0a0e8fb6bc2008f01671d650413360d5ec334367967823a937448b8afc363b9
