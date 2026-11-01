@@ -2,13 +2,13 @@ Origin: Aila OS
 Label: Aila OS
 Suite: stable
 Codename: stable
-Date: Sun, 01 Nov 2026 15:25:07 UTC
+Date: dom, 01 nov 2026 18:17:27 UTC
 Architectures: amd64
 Components: main
 Description: Atualizacoes do Aila OS
 MD5Sum:
- 3c66ab2c31fb6438c8e54cf7e3c13db4     2491 main/binary-amd64/Packages
- 7079a689896e8ca5eea3bac9e752172f      906 main/binary-amd64/Packages.gz
+ b2f86034659c3aa9ffd62086ea887e17     2739 main/binary-amd64/Packages
+ f706d7565a21660b2e7698228e1b91e8      910 main/binary-amd64/Packages.gz
 SHA256:
- dd60c78b8d54f05406480f5b2cf4cfc19df48355438f6860a5631a95e897e3bc     2491 main/binary-amd64/Packages
- ef74521baac175dce43c67767d6b8df35f5e51ae50ca9c45b877181a16e18d7c      906 main/binary-amd64/Packages.gz
+ 320c5f65bc80f33a7f46d099328aaaa310e2f97d483b8a8312633fe522604105     2739 main/binary-amd64/Packages
+ b369bd303f0524d7dd3c7898f4e6ed51814a7b520961d212d6824434a0ba66ba      910 main/binary-amd64/Packages.gz
