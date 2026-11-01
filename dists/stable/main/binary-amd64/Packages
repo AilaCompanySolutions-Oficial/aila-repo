@@ -1,19 +1,4 @@
 Package: aila-os-base
-Version: 0.2.4
-Section: misc
-Priority: optional
-Architecture: all
-Maintainer: Aila OS <contato@aila-os.local>
-Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme
-Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted
-Description: Aila OS - tema, apps e ajustes do sistema
- O que mudou nesta atualização?
-Filename: pool/main/aila-os-base_0.2.4_all.deb
-Size: 4481220
-MD5sum: ff5f52add84ab1603d0a77a82dd07e9b
-SHA256: 3ce9bc19b571ce6b74053db67fa57057bf6c9b291f998fc1b324396f38291b4a
-
-Package: aila-os-base
 Version: 0.2.5
 Section: misc
 Priority: optional
@@ -57,3 +42,18 @@ Filename: pool/main/aila-os-base_0.3.0_all.deb
 Size: 6033118
 MD5sum: dec3c6d4a91ca5f39f1f6b50075e7b97
 SHA256: 4f5b093f482da399f55067a4ed56c18f25afe32f1c8ad792921511aecab55876
+
+Package: aila-os-base
+Version: 0.4.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme, clamtk, ufw
+Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted, plasma-firewall, gufw, polkit-kde-agent-1, print-manager, qml6-module-qtquick-effects, qt6-style-kvantum
+Description: Aila OS - tema, apps e ajustes do sistema
+ Firewall ligado de verdade. Novo login com vidro. Efeito vidro nos apps (experimental). Correcoes de bugs.
+Filename: pool/main/aila-os-base_0.4.0_all.deb
+Size: 6047346
+MD5sum: eaec5d5782281ca4f2f424f561316d27
+SHA256: 4818873469d6e9d594562cee69f168bd6dd696aa147ae6eba2da4e8e3a8a535a
