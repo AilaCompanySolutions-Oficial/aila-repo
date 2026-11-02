@@ -1,19 +1,4 @@
 Package: aila-os-base
-Version: 0.3.0
-Section: misc
-Priority: optional
-Architecture: all
-Maintainer: Aila OS <contato@aila-os.local>
-Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme, clamtk
-Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted
-Description: Aila OS - tema, apps e ajustes do sistema
- Antivirus ClamTK incluido. Novo papel de parede Aila Violeta. App Atualizacoes mostra versao e novidades.
-Filename: pool/main/aila-os-base_0.3.0_all.deb
-Size: 6033118
-MD5sum: dec3c6d4a91ca5f39f1f6b50075e7b97
-SHA256: 4f5b093f482da399f55067a4ed56c18f25afe32f1c8ad792921511aecab55876
-
-Package: aila-os-base
 Version: 0.4.0
 Section: misc
 Priority: optional
@@ -57,3 +42,18 @@ Filename: pool/main/aila-os-base_0.4.3_all.deb
 Size: 6047302
 MD5sum: 593ae7866250ae97c1ab048dfbc95940
 SHA256: 3c60b6687cb5443c8db5f85625308be6021fb4060fef50912801388ea191eb4b
+
+Package: aila-os-base
+Version: 0.5.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Aila OS <contato@aila-os.local>
+Depends: python3-pyqt6, libnotify-bin, kdialog, systemd-zram-generator, earlyoom, papirus-icon-theme, clamtk, ufw, libreoffice-writer, libreoffice-calc, libreoffice-impress, libreoffice-draw, libreoffice-math
+Recommends: os-prober, ntfs-3g, mokutil, pciutils, gparted, plasma-firewall, gufw, polkit-kde-agent-1, print-manager, qml6-module-qtquick-effects, qt6-style-kvantum, libreoffice-base, libreoffice-l10n-pt-br, libreoffice-help-pt-br, libreoffice-style-breeze, fonts-crosextra-carlito, fonts-crosextra-caladea, fonts-liberation2, gamemode, mangohud, python3-dbus
+Description: Aila OS - tema, apps e ajustes do sistema
+ LibreOffice completo. Modo Gamer. Firewall ligado. Novo login com vidro. Correcoes.
+Filename: pool/main/aila-os-base_0.5.0_all.deb
+Size: 6053510
+MD5sum: 26eeb64a2a9d99b8a61dda00f681150d
+SHA256: 6b0554bc36fab9a1d30b75629c87314d33108bc4336ab45ff0f4546776b95b5a
